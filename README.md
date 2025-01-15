@@ -64,6 +64,6 @@ Outliers superiores: São os valores acima do limite superior.
 6. Tratar Outliers
 Existem diferentes formas de tratar os outliers:
 
- - Remover os outliers (simplesmente excluindo-os dos dados).
- - Substituir os outliers por um valor mais representativo (ex: a mediana ou a média).
+ - Remover os outliers (simplesmente excluindo-os dos dados);
+ - Substituir os outliers por um valor mais representativo (ex: a mediana ou a média);
  - Manter os outliers, se eles forem importantes para a análise.
